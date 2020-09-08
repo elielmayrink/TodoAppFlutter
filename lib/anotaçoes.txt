@@ -1,0 +1,5 @@
+
+
+* material renderiza componentes de interface para o android para android.
+* scaffold usado em pg inteiras...
+     por sua vez no body pode-se renderizar os containers.
